@@ -24,3 +24,4 @@ Typora 是一款知名的 Markdown 编辑器，简单好用，体验良好。直
 - 最后可以点击验证图片上传 来验证
 - 查看 PicGO 相册 和GitHub同步上传(可以找自己的图)
 - 在Typora中插入的图片，图片将通过PicGo上传到Github的库中，以后传输Typora文件时便不用将图片一起打包上传
+<img width="890" alt="image" src="https://user-images.githubusercontent.com/60172996/178768118-25505d96-8089-464e-b0d4-f0233b428072.png">
