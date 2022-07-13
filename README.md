@@ -15,3 +15,12 @@ Typora 是一款知名的 Markdown 编辑器，简单好用，体验良好。直
 - 指定存储路径，默认填img/
 - 自定义域名：一般使用cdn来加速，使用方法是：https://cdn.jsdelivr.net/gh/你的github名/你新建的github仓库名
 - 点击确定和设为默认图床
+
+3.typora配置
+- 安装好后找到文件中的偏好设置
+- 点击图像，前三项打勾√
+- 将上传服务改为PicGo（app）
+- PicGo路径改为你本地PicGo安装目录中的PicGo.exe文件
+- 最后可以点击验证图片上传 来验证
+- 查看 PicGO 相册 和GitHub同步上传(可以找自己的图)
+- 在Typora中插入的图片，图片将通过PicGo上传到Github的库中，以后传输Typora文件时便不用将图片一起打包上传
