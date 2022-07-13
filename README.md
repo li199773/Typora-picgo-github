@@ -4,6 +4,7 @@ Typora 是一款知名的 Markdown 编辑器，简单好用，体验良好。直
 1.GIthub配置
 - github 新建一个仓库， 专门用于放置自己的图片
 - settings—developer settings—new token—Note(请注意)填写token名称；将repo全部勾上√—完成(令牌只出现一次)
+
 2.picgo配置
 
 - 下载安装完后打开PicGo
